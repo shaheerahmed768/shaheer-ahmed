@@ -1,8 +1,6 @@
 <h2>Hello World! I'm Shaheer Ahmed</h2>
 
-<!-- ## 👋 &nbsp;Hi! I'm Haris Ahmed -->
-
-### About Me
+### About Me <img src="https://img.icons8.com/ultraviolet/30/000000/user-male-3.png"/>
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am an enthusiastic Frontend Developer based in Karachi, Pakistan.
 
@@ -12,7 +10,7 @@
 "Consistency is the key to challenge yourself which will eventually leads to goal."
 </blockquote>
 
-### <h2> Skills <img src = "./assets/giphy.gif"></h2>
+### <h2> Skills <img src="https://img.icons8.com/fluency/35/7950F2/source-code.png"/></h2>
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
@@ -24,7 +22,7 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-005571?style=for-the-badge&logo=photoshop&logoColor=white)&nbsp;
 <br></br>
 
-### <h2> Connect with me <img src='./assets/hs.gif'> </h2>
+### <h2> Contact <img src="https://img.icons8.com/external-color-outline-adri-ansyah/30/000000/external-user-home-screen-apps-color-outline-adri-ansyah-70.png"/> </h2>
 
 <p align="center">
 <a href="//"><img src="https://img.shields.io/badge/portfolio-1868F2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
