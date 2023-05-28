@@ -4,7 +4,7 @@
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am an enthusiastic Frontend Developer based in Karachi, Pakistan.
 
-⦿ &nbsp;I'm currently doing BS(Software Engineering) at the Sir Syed University of Engineering & Technology, Karachi, Pakistan, I'm on track to increase my knowledge in MERN Stack Development, Artificial Intelligence (AI) and other upcoming skills.
+⦿ &nbsp;I'm a graduate in BS(Software Engineering) from Sir Syed University of Engineering & Technology, Karachi, Pakistan, I'm on track to increase my knowledge in MERN Stack Development, Artificial Intelligence (AI) and other upcoming skills.
 
 <blockquote>
 "Consistency is the key to challenge yourself which will eventually leads to goal."
