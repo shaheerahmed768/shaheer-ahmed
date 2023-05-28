@@ -20,6 +20,7 @@
 ![Github](https://img.shields.io/badge/Github-372213?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-E44C30?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 <br></br>
 
 ### <h2> Contact <img src="https://img.icons8.com/external-color-outline-adri-ansyah/30/000000/external-user-home-screen-apps-color-outline-adri-ansyah-70.png"/> </h2>
