@@ -26,6 +26,6 @@
 ### <h2> Contact <img src="https://img.icons8.com/external-color-outline-adri-ansyah/30/000000/external-user-home-screen-apps-color-outline-adri-ansyah-70.png"/> </h2>
 
 <p align="center">
-<a href="//"><img src="https://img.shields.io/badge/portfolio-1868F2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://bit.ly/shaheerportfolio"><img src="https://img.shields.io/badge/portfolio-1868F2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="mailto:m.shaheerahmed@gmail.com"><img src="https://img.shields.io/badge/gmail-3a464b?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/shaheer-ahmed-38983021b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
